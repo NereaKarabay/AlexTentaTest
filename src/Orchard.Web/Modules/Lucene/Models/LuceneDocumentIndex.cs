@@ -7,7 +7,7 @@ using Orchard.Localization;
 using Orchard.Utility.Extensions;
 
 namespace Lucene.Models {
-
+// Här gör jag en kommentar
     public class LuceneDocumentIndex : IDocumentIndex {
 
         public List<AbstractField> Fields { get; private set; }
